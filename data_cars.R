@@ -11,3 +11,6 @@ for (i in 1:n){
 }
 
 hist(mtcars$mpg)
+
+# bagian baru menambahkan var
+var(mtcars$mpg)
